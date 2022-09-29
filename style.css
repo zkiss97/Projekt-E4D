@@ -1,0 +1,37 @@
+body{
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(12,9,121,1) 35%, rgba(0,212,255,1) 100%);
+}
+
+#content {
+    color: black;
+    background-color: white;
+    width: 60%;
+    margin: auto;
+    opacity: 90%;
+    padding: 10px;
+    border-radius: 15px;
+}
+
+#menu {
+    width: auto;
+}
+
+#logo {
+    float: left;
+}
+
+h1 {
+    text-align: center;
+}
+
+#quote {
+    font-size: larger;
+    font-style: italic;
+}
+
+button {
+    background-color: blue;
+    color: white;
+    font-size: medium;
+}
